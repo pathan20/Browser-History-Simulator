@@ -1,0 +1,3 @@
+Hello, my name is Saniya.
+This is my file compression project.
+Huffman coding is a lossless compression technique.
